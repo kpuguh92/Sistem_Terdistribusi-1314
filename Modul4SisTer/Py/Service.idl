@@ -1,0 +1,5 @@
+// A very simple interface to explain this example
+interface Service {
+    void ping();
+	string hello(in string mesg);
+};
