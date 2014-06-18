@@ -23,7 +23,7 @@ Modul 3: berisi dua tugas mengenai web service:
 
 Modul 4: Implementasi ORB/Object Request Broker pada dua komputer yg heterogen: klien menggunakan bahasa Python, sedangkan server menggunakan bahasa Java.
 
-Final Project: Melakukan pengolahan data (data mining) pada data KDD Cup 1999 untuk mencari sentroidnya dengan mengadakan pembagian tugas penghitungan kepada beberapa komputer dan hasilnya berupa file CSV.
+Final Project: Melakukan pengolahan data (data mining) pada data KDD Cup 1999 untuk mencari sentroidnya dengan mengadakan pembagian tugas penghitungan kepada sejumlah sumber daya komputer yang ada dan hasil keluarannya berupa file CSV.
 
 
 Demikian, selamat mempelajari dan menikmati.. :)
